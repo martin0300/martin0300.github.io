@@ -1,0 +1,88 @@
+{
+  "levels": [
+    {
+      "name": "Stereo Madness",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Back On Track",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Polargeist",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Dry Out",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Base After Base",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Can't Let Go",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Jumper",
+      "difficulty": "harder"
+    },
+    {
+      "name": "Time Machine",
+      "difficulty": "harder"
+    },
+    {
+      "name": "Cycles",
+      "difficulty": "harder"
+    },
+    {
+      "name": "xStep",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Clutterfunk",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Theory of Everything",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Electroman Adventures",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Clubstep",
+      "difficulty": "demon"
+    },
+    {
+      "name": "Electrodynamix",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Hexagon Force",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Blast Processing",
+      "difficulty": "harder"
+    },
+    {
+      "name": "Theory of Everything 2",
+      "difficulty": "demon"
+    },
+    {
+      "name": "Geometrical Dominator",
+      "difficulty": "harder"
+    },
+    {
+      "name": "Deadlocked",
+      "difficulty": "demon"
+    },
+    {
+      "name": "Fingerdash",
+      "difficulty": "insane"
+    }
+  ]
+}
