@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			//loader
+			getHTML = new Request("https://raw.githubusercontent.com/martin0300/CircleGame/main/game.html");
+			fetch(getHTML)
+				.then((response) => response.text())
+				.then((text) => {
+					getJS = new Request("https://raw.githubusercontent.com/martin0300/CircleGame/main/game.js");
+					var htmlCode = text;
+					fetch(getJS)
+						.then((response) => response.text())
+						.then((text) => {
+							htmlCode = htmlCode.replace('<script src="game.js"></scrip' + "t>", "<script>" + text + "</scrip" + "t>");
+							document.write(htmlCode);
+							setTimeout(loaded, 0);
+						});
+				});
+		</script>
+	</head>
+	<body></body>
+</html>
